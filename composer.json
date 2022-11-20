@@ -3,7 +3,7 @@
   "description": "A simple PHP Library based on Guzzle to generate short links using Bit.ly API V4",
   "type": "library",
   "require": {
-    "guzzlehttp/guzzle": "6.*"
+    "guzzlehttp/guzzle": ">=7.0.0"
   },
   "license": "MIT",
   "authors": [
